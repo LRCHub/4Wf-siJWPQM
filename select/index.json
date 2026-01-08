@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ゲルニカ",
+  "base_artist": "CLAN QUEEN",
+  "createdAt": "2026-01-08T13:04:38.375428Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ゲルニカ",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/01_ゲルニカ_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ゲルニカ",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/02_ゲルニカ_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ゲルニカ",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/03_ゲルニカ_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ゲルニカ",
+      "artist": "CLAN QUEEN",
+      "has_synced": false,
+      "path": "select/04_ゲルニカ_CLAN_QUEEN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゲルニカ",
+      "artist": "CLAN QUEEN",
+      "has_synced": false,
+      "path": "select/pl_01_ゲルニカ_CLAN_QUEEN.txt"
+    }
+  ]
+}
